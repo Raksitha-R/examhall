@@ -1,0 +1,9 @@
+
+delete the android folder nd do the following steps
+
+npm install @capacitor/core @capacitor/cli
+npx cap init
+npm install @capacitor/android
+npx cap add android
+npx cap copy
+npx cap open android
